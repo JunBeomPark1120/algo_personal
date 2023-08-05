@@ -1,4 +1,4 @@
-# python 큐 구현
+# Python 큐 구현
 from collections import deque
 
 # 큐(Queue) 구현을 위해 deque 라이브러리를 사용
