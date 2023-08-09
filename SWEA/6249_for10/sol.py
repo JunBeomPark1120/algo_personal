@@ -27,6 +27,7 @@ for tc in range(len(T)):
         else:
             continue
 
+# 리스트 내 문자열을 한 번에 출력할 땐 join을 사용
 print(' '.join(dic.keys()))
 
 # 리스트 요소를 한 줄에 출력하기 : 리스트 앞에 *을 명시하면 된다
