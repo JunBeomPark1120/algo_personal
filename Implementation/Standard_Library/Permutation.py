@@ -1,4 +1,4 @@
-from itertools import permutations
+from itertools import permutations  # 순열을 사용할 떄 사용하는 라이브러리
 
 data = ['A', 'B', 'C']  # 데이터 준비
 
